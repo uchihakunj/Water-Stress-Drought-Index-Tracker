@@ -1,4 +1,4 @@
-### streamlit Cloud: https://water-stress-drought-index-tracker.streamlit.app
+## Streamlit Cloud: https://water-stress-drought-index-tracker.streamlit.app
 
 # Global Water Stress & Drought Tracker
 
