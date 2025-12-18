@@ -1,5 +1,5 @@
 # Global Water Stress & Drought Tracker
-## streamlit Cloud:https: //water-stress-drought-index-tracker.streamlit.app/
+### streamlit Cloud:https: https://water-stress-drought-index-tracker.streamlit.app
 **Monitor historical water anomalies and predict future drought risks.**
 
 This dashboard provides an interactive interface to explore the "Water Stress & Drought Index" dataset. It integrates satellite-derived water storage anomalies (NASA GRACE) with baseline water risk scores (WRI Aqueduct) to monitor global drought conditions.
